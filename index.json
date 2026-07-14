@@ -1,0 +1,2762 @@
+{
+  "library": "SplendidGrandPiano",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/SplendidGrandPiano",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48",
+  "branch": "master",
+  "fileCount": 226,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/",
+  "files": [
+    {
+      "file": "FF_A0.opus",
+      "name": "FF_A0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_A0.opus",
+      "size": 71763,
+      "note": "A0",
+      "midiNote": 21,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_A1.opus",
+      "name": "FF_A1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_A1.opus",
+      "size": 84842,
+      "note": "A1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_A2.opus",
+      "name": "FF_A2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_A2.opus",
+      "size": 61444,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_A3.opus",
+      "name": "FF_A3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_A3.opus",
+      "size": 48633,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_A4.opus",
+      "name": "FF_A4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_A4.opus",
+      "size": 24203,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_A5.opus",
+      "name": "FF_A5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_A5.opus",
+      "size": 11529,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_As2.opus",
+      "name": "FF_As2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_As2.opus",
+      "size": 78124,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_As4.opus",
+      "name": "FF_As4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_As4.opus",
+      "size": 25196,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_B-1.opus",
+      "name": "FF_B-1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_B-1.opus",
+      "size": 67079,
+      "note": "B-1",
+      "midiNote": 11,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_B0.opus",
+      "name": "FF_B0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_B0.opus",
+      "size": 73356,
+      "note": "B0",
+      "midiNote": 23,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_B1.opus",
+      "name": "FF_B1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_B1.opus",
+      "size": 90114,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_B2.opus",
+      "name": "FF_B2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_B2.opus",
+      "size": 58243,
+      "note": "B2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_B3.opus",
+      "name": "FF_B3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_B3.opus",
+      "size": 41802,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_B4.opus",
+      "name": "FF_B4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_B4.opus",
+      "size": 27624,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_C2.opus",
+      "name": "FF_C2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_C2.opus",
+      "size": 80510,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_C3.opus",
+      "name": "FF_C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_C3.opus",
+      "size": 46618,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_C4.opus",
+      "name": "FF_C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_C4.opus",
+      "size": 29372,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_Cs1.opus",
+      "name": "FF_Cs1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_Cs1.opus",
+      "size": 66767,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_Cs5.opus",
+      "name": "FF_Cs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_Cs5.opus",
+      "size": 24663,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_D1.opus",
+      "name": "FF_D1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_D1.opus",
+      "size": 83834,
+      "note": "D1",
+      "midiNote": 26,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_D2.opus",
+      "name": "FF_D2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_D2.opus",
+      "size": 88110,
+      "note": "D2",
+      "midiNote": 38,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_D3.opus",
+      "name": "FF_D3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_D3.opus",
+      "size": 49701,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_D4.opus",
+      "name": "FF_D4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_D4.opus",
+      "size": 44320,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_D5.opus",
+      "name": "FF_D5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_D5.opus",
+      "size": 28931,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_Ds0.opus",
+      "name": "FF_Ds0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_Ds0.opus",
+      "size": 66780,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_E1.opus",
+      "name": "FF_E1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_E1.opus",
+      "size": 81624,
+      "note": "E1",
+      "midiNote": 28,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_E2.opus",
+      "name": "FF_E2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_E2.opus",
+      "size": 84905,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_E3.opus",
+      "name": "FF_E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_E3.opus",
+      "size": 58019,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_E4.opus",
+      "name": "FF_E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_E4.opus",
+      "size": 40264,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_E5.opus",
+      "name": "FF_E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_E5.opus",
+      "size": 19317,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_F0.opus",
+      "name": "FF_F0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_F0.opus",
+      "size": 76986,
+      "note": "F0",
+      "midiNote": 17,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_F1.opus",
+      "name": "FF_F1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_F1.opus",
+      "size": 88370,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_F2.opus",
+      "name": "FF_F2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_F2.opus",
+      "size": 62304,
+      "note": "F2",
+      "midiNote": 41,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_F3.opus",
+      "name": "FF_F3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_F3.opus",
+      "size": 46080,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_F4.opus",
+      "name": "FF_F4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_F4.opus",
+      "size": 31602,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_F5.opus",
+      "name": "FF_F5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_F5.opus",
+      "size": 17481,
+      "note": "F5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_G0.opus",
+      "name": "FF_G0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_G0.opus",
+      "size": 66055,
+      "note": "G0",
+      "midiNote": 19,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_G1.opus",
+      "name": "FF_G1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_G1.opus",
+      "size": 77646,
+      "note": "G1",
+      "midiNote": 31,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_G2.opus",
+      "name": "FF_G2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_G2.opus",
+      "size": 58715,
+      "note": "G2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_G3.opus",
+      "name": "FF_G3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_G3.opus",
+      "size": 42226,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_G4.opus",
+      "name": "FF_G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_G4.opus",
+      "size": 25830,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_G5.opus",
+      "name": "FF_G5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_G5.opus",
+      "size": 16714,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_Gs2.opus",
+      "name": "FF_Gs2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_Gs2.opus",
+      "size": 69169,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "FF_Gs4.opus",
+      "name": "FF_Gs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/FF_Gs4.opus",
+      "size": 28981,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_A1.opus",
+      "name": "MF_A1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_A1.opus",
+      "size": 71679,
+      "note": "A1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_A2.opus",
+      "name": "MF_A2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_A2.opus",
+      "size": 70080,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_A3.opus",
+      "name": "MF_A3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_A3.opus",
+      "size": 50924,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_As2.opus",
+      "name": "MF_As2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_As2.opus",
+      "size": 67476,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_B1.opus",
+      "name": "MF_B1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_B1.opus",
+      "size": 76540,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_B2.opus",
+      "name": "MF_B2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_B2.opus",
+      "size": 55952,
+      "note": "B2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_B3.opus",
+      "name": "MF_B3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_B3.opus",
+      "size": 44410,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_C2.opus",
+      "name": "MF_C2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_C2.opus",
+      "size": 77045,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_C3.opus",
+      "name": "MF_C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_C3.opus",
+      "size": 51180,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_C4.opus",
+      "name": "MF_C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_C4.opus",
+      "size": 31554,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_Cs1.opus",
+      "name": "MF_Cs1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_Cs1.opus",
+      "size": 85816,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_D1.opus",
+      "name": "MF_D1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_D1.opus",
+      "size": 81418,
+      "note": "D1",
+      "midiNote": 26,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_D2.opus",
+      "name": "MF_D2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_D2.opus",
+      "size": 71626,
+      "note": "D2",
+      "midiNote": 38,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_D3.opus",
+      "name": "MF_D3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_D3.opus",
+      "size": 68046,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_E1.opus",
+      "name": "MF_E1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_E1.opus",
+      "size": 85259,
+      "note": "E1",
+      "midiNote": 28,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_E2.opus",
+      "name": "MF_E2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_E2.opus",
+      "size": 73458,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_E3.opus",
+      "name": "MF_E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_E3.opus",
+      "size": 62191,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_F1.opus",
+      "name": "MF_F1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_F1.opus",
+      "size": 82543,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_F2.opus",
+      "name": "MF_F2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_F2.opus",
+      "size": 80270,
+      "note": "F2",
+      "midiNote": 41,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_F3.opus",
+      "name": "MF_F3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_F3.opus",
+      "size": 49127,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_G1.opus",
+      "name": "MF_G1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_G1.opus",
+      "size": 86392,
+      "note": "G1",
+      "midiNote": 31,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_G2.opus",
+      "name": "MF_G2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_G2.opus",
+      "size": 73854,
+      "note": "G2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_G3.opus",
+      "name": "MF_G3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_G3.opus",
+      "size": 52681,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "MF_Gs2.opus",
+      "name": "MF_Gs2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/MF_Gs2.opus",
+      "size": 71947,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_A0.opus",
+      "name": "Mf_A0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_A0.opus",
+      "size": 80432,
+      "note": "A0",
+      "midiNote": 21,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_A4.opus",
+      "name": "Mf_A4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_A4.opus",
+      "size": 38935,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_A5.opus",
+      "name": "Mf_A5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_A5.opus",
+      "size": 15902,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_A6.opus",
+      "name": "Mf_A6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_A6.opus",
+      "size": 12237,
+      "note": "A6",
+      "midiNote": 93,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_As4.opus",
+      "name": "Mf_As4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_As4.opus",
+      "size": 35106,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_As5.opus",
+      "name": "Mf_As5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_As5.opus",
+      "size": 15937,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_As6.opus",
+      "name": "Mf_As6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_As6.opus",
+      "size": 7506,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_B-1.opus",
+      "name": "Mf_B-1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_B-1.opus",
+      "size": 62941,
+      "note": "B-1",
+      "midiNote": 11,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_B0.opus",
+      "name": "Mf_B0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_B0.opus",
+      "size": 79462,
+      "note": "B0",
+      "midiNote": 23,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_B4.opus",
+      "name": "Mf_B4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_B4.opus",
+      "size": 33702,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_B5.opus",
+      "name": "Mf_B5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_B5.opus",
+      "size": 15219,
+      "note": "B5",
+      "midiNote": 83,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_B6.opus",
+      "name": "Mf_B6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_B6.opus",
+      "size": 13179,
+      "note": "B6",
+      "midiNote": 95,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_C6.opus",
+      "name": "Mf_C6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_C6.opus",
+      "size": 13244,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_C7.opus",
+      "name": "Mf_C7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_C7.opus",
+      "size": 12921,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_Cs5.opus",
+      "name": "Mf_Cs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_Cs5.opus",
+      "size": 24830,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_Cs6.opus",
+      "name": "Mf_Cs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_Cs6.opus",
+      "size": 12324,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_D4.opus",
+      "name": "Mf_D4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_D4.opus",
+      "size": 41656,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_D5.opus",
+      "name": "Mf_D5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_D5.opus",
+      "size": 24783,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_D6.opus",
+      "name": "Mf_D6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_D6.opus",
+      "size": 13755,
+      "note": "D6",
+      "midiNote": 86,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_Ds0.opus",
+      "name": "Mf_Ds0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_Ds0.opus",
+      "size": 65590,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_Ds5.opus",
+      "name": "Mf_Ds5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_Ds5.opus",
+      "size": 22298,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_Ds6.opus",
+      "name": "Mf_Ds6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_Ds6.opus",
+      "size": 15089,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_E4.opus",
+      "name": "Mf_E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_E4.opus",
+      "size": 38878,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_E5.opus",
+      "name": "Mf_E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_E5.opus",
+      "size": 26348,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_E6.opus",
+      "name": "Mf_E6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_E6.opus",
+      "size": 15151,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_F0.opus",
+      "name": "Mf_F0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_F0.opus",
+      "size": 74548,
+      "note": "F0",
+      "midiNote": 17,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_F4.opus",
+      "name": "Mf_F4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_F4.opus",
+      "size": 47896,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_F5.opus",
+      "name": "Mf_F5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_F5.opus",
+      "size": 25538,
+      "note": "F5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_F6.opus",
+      "name": "Mf_F6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_F6.opus",
+      "size": 12396,
+      "note": "F6",
+      "midiNote": 89,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_Fs5.opus",
+      "name": "Mf_Fs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_Fs5.opus",
+      "size": 20764,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_Fs6.opus",
+      "name": "Mf_Fs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_Fs6.opus",
+      "size": 13510,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_G0.opus",
+      "name": "Mf_G0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_G0.opus",
+      "size": 64644,
+      "note": "G0",
+      "midiNote": 19,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_G4.opus",
+      "name": "Mf_G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_G4.opus",
+      "size": 37948,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_G5.opus",
+      "name": "Mf_G5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_G5.opus",
+      "size": 16820,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_G6.opus",
+      "name": "Mf_G6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_G6.opus",
+      "size": 13035,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_Gs4.opus",
+      "name": "Mf_Gs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_Gs4.opus",
+      "size": 23704,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_Gs5.opus",
+      "name": "Mf_Gs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_Gs5.opus",
+      "size": 15980,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mf_Gs6.opus",
+      "name": "Mf_Gs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mf_Gs6.opus",
+      "size": 14337,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_A0.opus",
+      "name": "Mp_A0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_A0.opus",
+      "size": 69797,
+      "note": "A0",
+      "midiNote": 21,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_A1.opus",
+      "name": "Mp_A1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_A1.opus",
+      "size": 81424,
+      "note": "A1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_A2.opus",
+      "name": "Mp_A2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_A2.opus",
+      "size": 68151,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_A3.opus",
+      "name": "Mp_A3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_A3.opus",
+      "size": 46980,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_A4.opus",
+      "name": "Mp_A4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_A4.opus",
+      "size": 28754,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_A5.opus",
+      "name": "Mp_A5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_A5.opus",
+      "size": 13529,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_A6.opus",
+      "name": "Mp_A6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_A6.opus",
+      "size": 12130,
+      "note": "A6",
+      "midiNote": 93,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_As2.opus",
+      "name": "Mp_As2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_As2.opus",
+      "size": 70862,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_As4.opus",
+      "name": "Mp_As4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_As4.opus",
+      "size": 29091,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_As5.opus",
+      "name": "Mp_As5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_As5.opus",
+      "size": 11153,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_As6.opus",
+      "name": "Mp_As6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_As6.opus",
+      "size": 10833,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_B-1.opus",
+      "name": "Mp_B-1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_B-1.opus",
+      "size": 61868,
+      "note": "B-1",
+      "midiNote": 11,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_B0.opus",
+      "name": "Mp_B0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_B0.opus",
+      "size": 71521,
+      "note": "B0",
+      "midiNote": 23,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_B1.opus",
+      "name": "Mp_B1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_B1.opus",
+      "size": 64324,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_B2.opus",
+      "name": "Mp_B2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_B2.opus",
+      "size": 73865,
+      "note": "B2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_B3.opus",
+      "name": "Mp_B3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_B3.opus",
+      "size": 35206,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_B4.opus",
+      "name": "Mp_B4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_B4.opus",
+      "size": 38337,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_B5.opus",
+      "name": "Mp_B5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_B5.opus",
+      "size": 11395,
+      "note": "B5",
+      "midiNote": 83,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_C2.opus",
+      "name": "Mp_C2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_C2.opus",
+      "size": 61512,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_C3.opus",
+      "name": "Mp_C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_C3.opus",
+      "size": 57246,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_C4.opus",
+      "name": "Mp_C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_C4.opus",
+      "size": 28683,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_C6.opus",
+      "name": "Mp_C6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_C6.opus",
+      "size": 12705,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_Cs1.opus",
+      "name": "Mp_Cs1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_Cs1.opus",
+      "size": 72092,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_Cs5.opus",
+      "name": "Mp_Cs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_Cs5.opus",
+      "size": 24172,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_Cs6.opus",
+      "name": "Mp_Cs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_Cs6.opus",
+      "size": 11556,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_D1.opus",
+      "name": "Mp_D1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_D1.opus",
+      "size": 81438,
+      "note": "D1",
+      "midiNote": 26,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_D2.opus",
+      "name": "Mp_D2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_D2.opus",
+      "size": 48595,
+      "note": "D2",
+      "midiNote": 38,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_D3.opus",
+      "name": "Mp_D3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_D3.opus",
+      "size": 55410,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_D4.opus",
+      "name": "Mp_D4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_D4.opus",
+      "size": 42059,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_D5.opus",
+      "name": "Mp_D5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_D5.opus",
+      "size": 22316,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_D6.opus",
+      "name": "Mp_D6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_D6.opus",
+      "size": 11506,
+      "note": "D6",
+      "midiNote": 86,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_Ds0.opus",
+      "name": "Mp_Ds0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_Ds0.opus",
+      "size": 69574,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_Ds5.opus",
+      "name": "Mp_Ds5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_Ds5.opus",
+      "size": 15076,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_Ds6.opus",
+      "name": "Mp_Ds6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_Ds6.opus",
+      "size": 12575,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_E1.opus",
+      "name": "Mp_E1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_E1.opus",
+      "size": 79573,
+      "note": "E1",
+      "midiNote": 28,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_E2.opus",
+      "name": "Mp_E2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_E2.opus",
+      "size": 64019,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_E3.opus",
+      "name": "Mp_E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_E3.opus",
+      "size": 53172,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_E4.opus",
+      "name": "Mp_E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_E4.opus",
+      "size": 39530,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_E5.opus",
+      "name": "Mp_E5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_E5.opus",
+      "size": 19585,
+      "note": "E5",
+      "midiNote": 76,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_F0.opus",
+      "name": "Mp_F0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_F0.opus",
+      "size": 71238,
+      "note": "F0",
+      "midiNote": 17,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_F1.opus",
+      "name": "Mp_F1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_F1.opus",
+      "size": 81276,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_F2.opus",
+      "name": "Mp_F2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_F2.opus",
+      "size": 70329,
+      "note": "F2",
+      "midiNote": 41,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_F3.opus",
+      "name": "Mp_F3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_F3.opus",
+      "size": 47646,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_F4.opus",
+      "name": "Mp_F4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_F4.opus",
+      "size": 39938,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_F5.opus",
+      "name": "Mp_F5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_F5.opus",
+      "size": 21238,
+      "note": "F5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_F6.opus",
+      "name": "Mp_F6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_F6.opus",
+      "size": 11762,
+      "note": "F6",
+      "midiNote": 89,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_Fs5.opus",
+      "name": "Mp_Fs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_Fs5.opus",
+      "size": 20737,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_Fs6.opus",
+      "name": "Mp_Fs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_Fs6.opus",
+      "size": 12247,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_G0.opus",
+      "name": "Mp_G0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_G0.opus",
+      "size": 61482,
+      "note": "G0",
+      "midiNote": 19,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_G1.opus",
+      "name": "Mp_G1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_G1.opus",
+      "size": 64159,
+      "note": "G1",
+      "midiNote": 31,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_G2.opus",
+      "name": "Mp_G2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_G2.opus",
+      "size": 64688,
+      "note": "G2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_G3.opus",
+      "name": "Mp_G3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_G3.opus",
+      "size": 40146,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_G4.opus",
+      "name": "Mp_G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_G4.opus",
+      "size": 31858,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_G5.opus",
+      "name": "Mp_G5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_G5.opus",
+      "size": 15252,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_G6.opus",
+      "name": "Mp_G6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_G6.opus",
+      "size": 12862,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_Gs2.opus",
+      "name": "Mp_Gs2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_Gs2.opus",
+      "size": 63759,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_Gs4.opus",
+      "name": "Mp_Gs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_Gs4.opus",
+      "size": 35561,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_Gs5.opus",
+      "name": "Mp_Gs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_Gs5.opus",
+      "size": 13458,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Mp_Gs6.opus",
+      "name": "Mp_Gs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/Mp_Gs6.opus",
+      "size": 14458,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_A0.opus",
+      "name": "PP_A0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_A0.opus",
+      "size": 54537,
+      "note": "A0",
+      "midiNote": 21,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_A1.opus",
+      "name": "PP_A1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_A1.opus",
+      "size": 51955,
+      "note": "A1",
+      "midiNote": 33,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_A2.opus",
+      "name": "PP_A2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_A2.opus",
+      "size": 45884,
+      "note": "A2",
+      "midiNote": 45,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_A3.opus",
+      "name": "PP_A3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_A3.opus",
+      "size": 41995,
+      "note": "A3",
+      "midiNote": 57,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_A4.opus",
+      "name": "PP_A4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_A4.opus",
+      "size": 12352,
+      "note": "A4",
+      "midiNote": 69,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_A5.opus",
+      "name": "PP_A5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_A5.opus",
+      "size": 15210,
+      "note": "A5",
+      "midiNote": 81,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_A6.opus",
+      "name": "PP_A6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_A6.opus",
+      "size": 11848,
+      "note": "A6",
+      "midiNote": 93,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_As2.opus",
+      "name": "PP_As2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_As2.opus",
+      "size": 36544,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_As4.opus",
+      "name": "PP_As4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_As4.opus",
+      "size": 17070,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_As5.opus",
+      "name": "PP_As5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_As5.opus",
+      "size": 12439,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_As6.opus",
+      "name": "PP_As6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_As6.opus",
+      "size": 12541,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_B-1.opus",
+      "name": "PP_B-1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_B-1.opus",
+      "size": 60909,
+      "note": "B-1",
+      "midiNote": 11,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_B0.opus",
+      "name": "PP_B0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_B0.opus",
+      "size": 51015,
+      "note": "B0",
+      "midiNote": 23,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_B1.opus",
+      "name": "PP_B1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_B1.opus",
+      "size": 52165,
+      "note": "B1",
+      "midiNote": 35,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_B2.opus",
+      "name": "PP_B2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_B2.opus",
+      "size": 35263,
+      "note": "B2",
+      "midiNote": 47,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_B3.opus",
+      "name": "PP_B3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_B3.opus",
+      "size": 46217,
+      "note": "B3",
+      "midiNote": 59,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_B4.opus",
+      "name": "PP_B4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_B4.opus",
+      "size": 18456,
+      "note": "B4",
+      "midiNote": 71,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_B5.opus",
+      "name": "PP_B5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_B5.opus",
+      "size": 14495,
+      "note": "B5",
+      "midiNote": 83,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_B6.opus",
+      "name": "PP_B6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_B6.opus",
+      "size": 11198,
+      "note": "B6",
+      "midiNote": 95,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_C2.opus",
+      "name": "PP_C2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_C2.opus",
+      "size": 50866,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_C3.opus",
+      "name": "PP_C3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_C3.opus",
+      "size": 34838,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_C4.opus",
+      "name": "PP_C4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_C4.opus",
+      "size": 30014,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_C6.opus",
+      "name": "PP_C6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_C6.opus",
+      "size": 13438,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_C7.opus",
+      "name": "PP_C7.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_C7.opus",
+      "size": 11910,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_Cs1.opus",
+      "name": "PP_Cs1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_Cs1.opus",
+      "size": 67179,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_Cs5.opus",
+      "name": "PP_Cs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_Cs5.opus",
+      "size": 16026,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_Cs6.opus",
+      "name": "PP_Cs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_Cs6.opus",
+      "size": 10874,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_D1.opus",
+      "name": "PP_D1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_D1.opus",
+      "size": 65155,
+      "note": "D1",
+      "midiNote": 26,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_D2.opus",
+      "name": "PP_D2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_D2.opus",
+      "size": 42172,
+      "note": "D2",
+      "midiNote": 38,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_D3.opus",
+      "name": "PP_D3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_D3.opus",
+      "size": 32137,
+      "note": "D3",
+      "midiNote": 50,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_D4.opus",
+      "name": "PP_D4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_D4.opus",
+      "size": 29466,
+      "note": "D4",
+      "midiNote": 62,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_D5.opus",
+      "name": "PP_D5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_D5.opus",
+      "size": 13660,
+      "note": "D5",
+      "midiNote": 74,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_D6.opus",
+      "name": "PP_D6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_D6.opus",
+      "size": 10657,
+      "note": "D6",
+      "midiNote": 86,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_Ds0.opus",
+      "name": "PP_Ds0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_Ds0.opus",
+      "size": 68193,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_Ds5.opus",
+      "name": "PP_Ds5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_Ds5.opus",
+      "size": 14523,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_Ds6.opus",
+      "name": "PP_Ds6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_Ds6.opus",
+      "size": 13263,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_E1.opus",
+      "name": "PP_E1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_E1.opus",
+      "size": 65434,
+      "note": "E1",
+      "midiNote": 28,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_E2.opus",
+      "name": "PP_E2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_E2.opus",
+      "size": 41956,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_E3.opus",
+      "name": "PP_E3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_E3.opus",
+      "size": 40128,
+      "note": "E3",
+      "midiNote": 52,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_E4.opus",
+      "name": "PP_E4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_E4.opus",
+      "size": 27361,
+      "note": "E4",
+      "midiNote": 64,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_E6.opus",
+      "name": "PP_E6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_E6.opus",
+      "size": 12307,
+      "note": "E6",
+      "midiNote": 88,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_F0.opus",
+      "name": "PP_F0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_F0.opus",
+      "size": 55038,
+      "note": "F0",
+      "midiNote": 17,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_F1.opus",
+      "name": "PP_F1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_F1.opus",
+      "size": 56923,
+      "note": "F1",
+      "midiNote": 29,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_F2.opus",
+      "name": "PP_F2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_F2.opus",
+      "size": 42990,
+      "note": "F2",
+      "midiNote": 41,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_F3.opus",
+      "name": "PP_F3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_F3.opus",
+      "size": 33462,
+      "note": "F3",
+      "midiNote": 53,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_F4.opus",
+      "name": "PP_F4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_F4.opus",
+      "size": 22848,
+      "note": "F4",
+      "midiNote": 65,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_F5.opus",
+      "name": "PP_F5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_F5.opus",
+      "size": 13429,
+      "note": "F5",
+      "midiNote": 77,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_F6.opus",
+      "name": "PP_F6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_F6.opus",
+      "size": 12747,
+      "note": "F6",
+      "midiNote": 89,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_Fs5.opus",
+      "name": "PP_Fs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_Fs5.opus",
+      "size": 12273,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_Fs6.opus",
+      "name": "PP_Fs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_Fs6.opus",
+      "size": 11935,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_G0.opus",
+      "name": "PP_G0.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_G0.opus",
+      "size": 51809,
+      "note": "G0",
+      "midiNote": 19,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_G1.opus",
+      "name": "PP_G1.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_G1.opus",
+      "size": 44486,
+      "note": "G1",
+      "midiNote": 31,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_G2.opus",
+      "name": "PP_G2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_G2.opus",
+      "size": 47200,
+      "note": "G2",
+      "midiNote": 43,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_G3.opus",
+      "name": "PP_G3.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_G3.opus",
+      "size": 38480,
+      "note": "G3",
+      "midiNote": 55,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_G4.opus",
+      "name": "PP_G4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_G4.opus",
+      "size": 24676,
+      "note": "G4",
+      "midiNote": 67,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_G5.opus",
+      "name": "PP_G5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_G5.opus",
+      "size": 12800,
+      "note": "G5",
+      "midiNote": 79,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_G6.opus",
+      "name": "PP_G6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_G6.opus",
+      "size": 15736,
+      "note": "G6",
+      "midiNote": 91,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_Gs2.opus",
+      "name": "PP_Gs2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_Gs2.opus",
+      "size": 43229,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_Gs4.opus",
+      "name": "PP_Gs4.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_Gs4.opus",
+      "size": 25797,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_Gs5.opus",
+      "name": "PP_Gs5.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_Gs5.opus",
+      "size": 12286,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "PP_Gs6.opus",
+      "name": "PP_Gs6.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/splendid-grand-piano-opus-48/master/PP_Gs6.opus",
+      "size": 13540,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "11": [
+      "FF_B-1.opus",
+      "Mf_B-1.opus",
+      "Mp_B-1.opus",
+      "PP_B-1.opus"
+    ],
+    "17": [
+      "FF_F0.opus",
+      "Mf_F0.opus",
+      "Mp_F0.opus",
+      "PP_F0.opus"
+    ],
+    "19": [
+      "FF_G0.opus",
+      "Mf_G0.opus",
+      "Mp_G0.opus",
+      "PP_G0.opus"
+    ],
+    "21": [
+      "FF_A0.opus",
+      "Mf_A0.opus",
+      "Mp_A0.opus",
+      "PP_A0.opus"
+    ],
+    "23": [
+      "FF_B0.opus",
+      "Mf_B0.opus",
+      "Mp_B0.opus",
+      "PP_B0.opus"
+    ],
+    "26": [
+      "FF_D1.opus",
+      "MF_D1.opus",
+      "Mp_D1.opus",
+      "PP_D1.opus"
+    ],
+    "28": [
+      "FF_E1.opus",
+      "MF_E1.opus",
+      "Mp_E1.opus",
+      "PP_E1.opus"
+    ],
+    "29": [
+      "FF_F1.opus",
+      "MF_F1.opus",
+      "Mp_F1.opus",
+      "PP_F1.opus"
+    ],
+    "31": [
+      "FF_G1.opus",
+      "MF_G1.opus",
+      "Mp_G1.opus",
+      "PP_G1.opus"
+    ],
+    "33": [
+      "FF_A1.opus",
+      "MF_A1.opus",
+      "Mp_A1.opus",
+      "PP_A1.opus"
+    ],
+    "35": [
+      "FF_B1.opus",
+      "MF_B1.opus",
+      "Mp_B1.opus",
+      "PP_B1.opus"
+    ],
+    "36": [
+      "FF_C2.opus",
+      "MF_C2.opus",
+      "Mp_C2.opus",
+      "PP_C2.opus"
+    ],
+    "38": [
+      "FF_D2.opus",
+      "MF_D2.opus",
+      "Mp_D2.opus",
+      "PP_D2.opus"
+    ],
+    "40": [
+      "FF_E2.opus",
+      "MF_E2.opus",
+      "Mp_E2.opus",
+      "PP_E2.opus"
+    ],
+    "41": [
+      "FF_F2.opus",
+      "MF_F2.opus",
+      "Mp_F2.opus",
+      "PP_F2.opus"
+    ],
+    "43": [
+      "FF_G2.opus",
+      "MF_G2.opus",
+      "Mp_G2.opus",
+      "PP_G2.opus"
+    ],
+    "45": [
+      "FF_A2.opus",
+      "MF_A2.opus",
+      "Mp_A2.opus",
+      "PP_A2.opus"
+    ],
+    "47": [
+      "FF_B2.opus",
+      "MF_B2.opus",
+      "Mp_B2.opus",
+      "PP_B2.opus"
+    ],
+    "48": [
+      "FF_C3.opus",
+      "MF_C3.opus",
+      "Mp_C3.opus",
+      "PP_C3.opus"
+    ],
+    "50": [
+      "FF_D3.opus",
+      "MF_D3.opus",
+      "Mp_D3.opus",
+      "PP_D3.opus"
+    ],
+    "52": [
+      "FF_E3.opus",
+      "MF_E3.opus",
+      "Mp_E3.opus",
+      "PP_E3.opus"
+    ],
+    "53": [
+      "FF_F3.opus",
+      "MF_F3.opus",
+      "Mp_F3.opus",
+      "PP_F3.opus"
+    ],
+    "55": [
+      "FF_G3.opus",
+      "MF_G3.opus",
+      "Mp_G3.opus",
+      "PP_G3.opus"
+    ],
+    "57": [
+      "FF_A3.opus",
+      "MF_A3.opus",
+      "Mp_A3.opus",
+      "PP_A3.opus"
+    ],
+    "59": [
+      "FF_B3.opus",
+      "MF_B3.opus",
+      "Mp_B3.opus",
+      "PP_B3.opus"
+    ],
+    "60": [
+      "FF_C4.opus",
+      "MF_C4.opus",
+      "Mp_C4.opus",
+      "PP_C4.opus"
+    ],
+    "62": [
+      "FF_D4.opus",
+      "Mf_D4.opus",
+      "Mp_D4.opus",
+      "PP_D4.opus"
+    ],
+    "64": [
+      "FF_E4.opus",
+      "Mf_E4.opus",
+      "Mp_E4.opus",
+      "PP_E4.opus"
+    ],
+    "65": [
+      "FF_F4.opus",
+      "Mf_F4.opus",
+      "Mp_F4.opus",
+      "PP_F4.opus"
+    ],
+    "67": [
+      "FF_G4.opus",
+      "Mf_G4.opus",
+      "Mp_G4.opus",
+      "PP_G4.opus"
+    ],
+    "69": [
+      "FF_A4.opus",
+      "Mf_A4.opus",
+      "Mp_A4.opus",
+      "PP_A4.opus"
+    ],
+    "71": [
+      "FF_B4.opus",
+      "Mf_B4.opus",
+      "Mp_B4.opus",
+      "PP_B4.opus"
+    ],
+    "74": [
+      "FF_D5.opus",
+      "Mf_D5.opus",
+      "Mp_D5.opus",
+      "PP_D5.opus"
+    ],
+    "76": [
+      "FF_E5.opus",
+      "Mf_E5.opus",
+      "Mp_E5.opus"
+    ],
+    "77": [
+      "FF_F5.opus",
+      "Mf_F5.opus",
+      "Mp_F5.opus",
+      "PP_F5.opus"
+    ],
+    "79": [
+      "FF_G5.opus",
+      "Mf_G5.opus",
+      "Mp_G5.opus",
+      "PP_G5.opus"
+    ],
+    "81": [
+      "FF_A5.opus",
+      "Mf_A5.opus",
+      "Mp_A5.opus",
+      "PP_A5.opus"
+    ],
+    "83": [
+      "Mf_B5.opus",
+      "Mp_B5.opus",
+      "PP_B5.opus"
+    ],
+    "84": [
+      "Mf_C6.opus",
+      "Mp_C6.opus",
+      "PP_C6.opus"
+    ],
+    "86": [
+      "Mf_D6.opus",
+      "Mp_D6.opus",
+      "PP_D6.opus"
+    ],
+    "88": [
+      "Mf_E6.opus",
+      "PP_E6.opus"
+    ],
+    "89": [
+      "Mf_F6.opus",
+      "Mp_F6.opus",
+      "PP_F6.opus"
+    ],
+    "91": [
+      "Mf_G6.opus",
+      "Mp_G6.opus",
+      "PP_G6.opus"
+    ],
+    "93": [
+      "Mf_A6.opus",
+      "Mp_A6.opus",
+      "PP_A6.opus"
+    ],
+    "95": [
+      "Mf_B6.opus",
+      "PP_B6.opus"
+    ],
+    "96": [
+      "Mf_C7.opus",
+      "PP_C7.opus"
+    ]
+  }
+}
